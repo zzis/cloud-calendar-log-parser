@@ -1,0 +1,23 @@
+{
+  "name": "cloud-calendar-log-parser",
+  "version": "1.0.0",
+  "description": "Log parser for cloud calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zz",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@types/line-reader": "^0.0.28",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^12.6.8",
+    "line-reader": "^0.4.0",
+    "moment": "^2.24.0",
+    "tslint": "^5.18.0"
+  }
+}

@@ -1,0 +1,67 @@
+工作记录 2019-07-01 ～ 2019-07-05
+
+2019-07-01 周一
+上午： 
+10:00 - 11:00 | working | 表单构建器bug — dict设置下拉不生效
+11:00-12:00 |  meeting | eefe周会
+下午：
+13:00 - 14:00 | working | 继续 表单构建器bug — dict设置下拉不生效, done
+14:00 - 15:00  | working | 在AC上搭建一个测试环境（本地跑服务给后端测试资源吃满了），并且尝试使用cloud studio
+15: 00 - 15:40 |  working |  表单构建器问题：必填项不应该有默认值
+15:40 - 16:10 | working |  尝试自己写ajv validate function
+16:10 - 16:30 | meeting | 准备demo表单构建器
+16:30 - 18:10 | meeting | 迭代周会
+18:10 - 19:00 | working | 修复ab样本量计算问题
+
+2019-07-02 周二
+上午
+10:00 - 11:00 | meeting | 开会，处理dbs邮件
+10:40 - 11:00 | working | 查看配置平台普通配置json字段为null字段丢失问题 与后端沟通
+11:00 - 11:30 | thinking | 思考人生 兼职教育 换坑成长
+11:30 - 11:40 | working | 协助查找didoc后端服务日志
+11:40 - 12:00 | working |  处理表单构建器问题 aform builder 设置了必填 在源码和预览之间切换的时候 required丢了（indexable listable同理）
+下午
+13:30 - 14:00 | personal | 给献血中心打电话 确认状态
+14:20 - 14:30 | working | 改文案
+14:00 - 16:00 | meeting | efe例会
+15:50 - 16:30 | working | abtest样本量计算上线准备 构建 -》提单子 -〉上线
+16:30 - 17:00 | studying | 计划calendar应用
+17:00 - 19:00 | working | 处理表单构建器问题 dict类型设置下拉时未生效 — done
+18:50 - 17:20 | studying | 研究webpack dllPlugin 通过缓存提升webpack构建速度
+
+2019-07-03 周三
+上午
+10:00 - 10:40 | meeting | 站会
+10:50 - 12:00 | working | schema-builder修复 date类型改变 默认值应该跟着变
+下午
+13:50 - 16:30 | working | schema-builder 支持时间选择组件（HH:mm:ss）
+16:30 - 17:00 | working | 协助灰度仿真环境部署问题 - 未解决
+17:00 - 18:00 | meeting | AB六月客服问题
+18:00 - 19:00 | meeting | product feedback team双周周会
+19:00 - 19:15  | working | schema-builder 支持时间选择组件（HH:mm:ss）— done
+
+2019-07-04 周四
+上午
+10:00 - 10:30 | meeting | 站会
+10:30 - 12:00 | working | 表单构建器 dict datasource问题 — done
+下午
+13:50 - 14:16 | working | aform builder 设置了必填 在源码和预览之间切换的时候 required丢了（indexable listable同理）— done
+14:20 - 14: 50 | studying | 简历 & 前端编码的一些规范
+14:50 - 15:30 | studying |  way 滴滴派单算法 http://way.xiaojukeji.com/article/15981
+15:30 - 16:00 | coffee
+16:00 - 16:20 | working | 清理鲲鹏未处理CR
+16:30 - 16:50 | relaxing | 划水
+16:50 - 17:05 | studying | 理解package-lock.json的意义
+17:40 - 18:30 | working | AB平台 dchat替换钉钉
+
+2019-07-05 周五
+上午
+10:50 - 11:20 | working | 周报
+11:20 - 12:00 | working | ab dchat替换钉钉 — 测试环境
+14:00 - 16:00 | working | 帮解决把脉打包问题 & 帮看select onChange触发componentWillRectiveProps问题
+16:00 - 16:20 | working | ab dchat更新打开方式，python sdk更新readme
+16:30 - 17:00 | working | 找dchat官方号的用户名 - 未解决 当前不支持
+17:00 - 21:30 | meeting | ab 2019下半年目标制定
+
+
+
