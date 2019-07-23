@@ -48,7 +48,7 @@
 13:50 - 14:16 | working | aform builder 设置了必填 在源码和预览之间切换的时候 required丢了（indexable listable同理）— done
 14:20 - 14: 50 | studying | 简历 & 前端编码的一些规范
 14:50 - 15:30 | studying |  way 滴滴派单算法 http://way.xiaojukeji.com/article/15981
-15:30 - 16:00 | coffee
+15:30 - 16:00 | coffee | 遛弯 买咖啡
 16:00 - 16:20 | working | 清理鲲鹏未处理CR
 16:30 - 16:50 | relaxing | 划水
 16:50 - 17:05 | studying | 理解package-lock.json的意义
